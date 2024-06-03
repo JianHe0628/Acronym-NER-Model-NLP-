@@ -1,0 +1,20 @@
+
+Classification Report
+              precision    recall  f1-score   support
+
+        B-AC       0.92      0.70      0.80        50
+        B-LF       0.68      0.65      0.67        23
+         B-O       0.95      0.97      0.96       432
+        I-LF       0.92      0.96      0.94        23
+
+    accuracy                           0.93       528
+   macro avg       0.87      0.82      0.84       528
+weighted avg       0.93      0.93      0.93       528
++-------------------+----------+
+|                   |        0 |
+|-------------------+----------|
+| Overall Precision | 0.93254  |
+| Overall Recall    | 0.930693 |
+| Overall F1        | 0.931615 |
+| Overall Accuracy  | 0.931818 |
++-------------------+----------+
